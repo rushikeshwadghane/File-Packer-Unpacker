@@ -2,9 +2,9 @@
 By Using this project we can fetch data from all files and merge into one file. As well as we can extract all packed file whenever required.
 
 **File Packer Unpacker**\
-• This project is used to perform packing and unpacking activity for multiple type of files.\
-•In case of packing activity it maintain one ffile which contains metadata and data of multiple file from specified directory.\
-•In case of unpacking activity we extract all data from packed file and according to its metadata we create all files.\
+• This project is used to perform packing and unpacking activity for multiple types of files.
+•In case of packing activity it maintains one file which contains metadata and data of multiple files from specified directory.
+•In case of unpacking activity we extract all data from packed files and according to its metadata we create all files.
 •In this project i have to use java as front end as well as backend for platform independency.
 
 **Steps to devlop this project**\
